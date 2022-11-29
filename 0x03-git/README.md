@@ -1,1 +1,1 @@
-This is an edited readme file
+Edited readme file
